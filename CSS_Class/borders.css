@@ -1,0 +1,14 @@
+.border{
+    /* border: 5px black solid; */
+    border-radius: 5px;
+    border-color: black;
+    border-style: dotted;
+    border-width: 5px;
+
+
+    margin: 15px;/* Afuera del borde */
+     /*  Border: Contorno */
+    padding: 15px;/* Entre borde y componente */
+   
+
+}
